@@ -7,7 +7,7 @@ import App from './App';
 
 // Initialize Firebase
 const firebaseConfig = {
-    apiKey: 'AIzaSyDOLENtnVp58X2vyKvqLKctrS6C2h7VWSQ',
+    apiKey: process.env.API_KEY,
     authDomain: 'coachemma-database.firebaseapp.com',
     databaseURL: 'https://coachemma-database-default-rtdb.europe-west1.firebasedatabase.app/',
     projectId: 'coachemma-database',
