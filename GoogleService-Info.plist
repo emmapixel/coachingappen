@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1042512535318-ubj41c0u82ko795nc8g0gkob384g88gk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1042512535318-ubj41c0u82ko795nc8g0gkob384g88gk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB3gWEYwGwv9aAB-LhNHGvLZsI_ygHhEBU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1042512535318</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.coachemma.coachemma</string>
+	<key>PROJECT_ID</key>
+	<string>coachemma-database</string>
+	<key>STORAGE_BUCKET</key>
+	<string>coachemma-database.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1042512535318:ios:f586059867657bb57c3a37</string>
+</dict>
+</plist>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1042512535318",
+    "project_id": "coachemma-database",
+    "storage_bucket": "coachemma-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042512535318:android:d6f8d4745612f8da7c3a37",
+        "android_client_info": {
+          "package_name": "com.coachemma.coachemma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042512535318-0qeer61d7lkh0bsvjl7rcnlrngf7uebo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOLENtnVp58X2vyKvqLKctrS6C2h7VWSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042512535318-0qeer61d7lkh0bsvjl7rcnlrngf7uebo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1042512535318-ubj41c0u82ko795nc8g0gkob384g88gk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.coachemma.coachemma"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
